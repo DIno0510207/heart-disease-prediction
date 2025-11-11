@@ -1,6 +1,16 @@
 # Heart Disease Prediction
 Used the UCI Machine Learning [Heart Disease](https://archive.ics.uci.edu/dataset/45/heart+disease) dataset.
 
+**Test set metrics**<br>
+Accuracy     : 0.8689<br>
+Precision    : 0.8846<br>
+Recall       : 0.8214 (Sensitivity)<br>
+Specificity  : 0.9091<br>
+F1 Score     : 0.8519<br>
+ROC AUC      : 0.9307<br>
+<img width="936" height="390" alt="image" src="https://github.com/user-attachments/assets/e4a46f2b-6126-4028-a03d-41fd33640ba0" />
+
+## Features
 The Cleaveland Database was used from the dataset consisting of 303 records and these features were used for training:
 1. age: age in years
 2. sex: sex (1 = male; 0 = female)
